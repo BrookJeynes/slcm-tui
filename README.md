@@ -5,7 +5,7 @@ Single-line Clipboard Manager is a simple TUI application which allows you to co
 
 ## Screenshots
 
-![Example bookmarks](hhttps://github.com/BrookJeynes/slcm-tui/tree/master/assest/example.png)
+![Example bookmarks](https://github.com/BrookJeynes/slcm-tui/blob/main/assets/example.png)
 
 
 ## Features
